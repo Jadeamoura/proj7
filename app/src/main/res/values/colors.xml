@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Base colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- App theme colors -->
+    <color name="app_background">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="accent_pink">#FF6FA8</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="title_color">#FFE1BEE7</color> <!-- soft lilac/pink for the script font -->
 </resources>
